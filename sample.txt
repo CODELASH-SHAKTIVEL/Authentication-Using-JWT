@@ -1,0 +1,7 @@
+<!--******************************* -->
+
+    <!-- <h1>HOME</h1>
+    <p> MY name is <%= name %> </p> // it is treat as variable 
+    <p> MY name is <%= locals.name %> </p> // it is treat as variable // good suntax to be used  -->
+
+    <!--  ******************************** -->
